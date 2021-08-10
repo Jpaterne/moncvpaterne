@@ -1,0 +1,83 @@
+body {
+	top:50px;
+	width: 100%;
+	background: #ccc;
+	font-size: 1.7em;
+	font-family:georgian;
+	border:0 solid maroon;
+}
+body:hover{
+	color:purple;
+	border-radius: 30px;
+	font-size:30px;
+}
+ul {
+	border: 10px olive inset;
+	font-family: Verdana;	
+}.
+ /* ul:hover{
+	color:green;
+	border-radius: 50px;
+	font-size:50px; */
+}
+.tete{
+	width:;
+	margin: 0 auto;
+	border: 30px olive groove;
+	border-radius: 30px;
+	font-size: 50px;
+	font-style: italic	
+} 
+}
+.competences{
+	color:blue;
+	text-shadow: 2px 3px 4px rgb(92, 31, 92);
+	font-style: italic;
+	font-size: 50px;
+}
+.img{
+	width: 500px;;
+	height:500px;
+	margin-right:100px;
+	margin-top:1010px;
+	background:rgb(75, 74, 74);
+	padding:100px;
+	border:100px solid olive;
+}
+ .experiences{
+	color:rgb(0, 128, 28);
+	text-shadow: 2px 3px 4px fuchsia;
+	font-style: italic;
+	font-size: 50px;
+
+}
+.vie{
+	color:navy;
+	text-shadow: 2px 3px 4px fuchsia;
+	font-style: italic;
+	font-size: 50px;
+}
+.autres{
+	color:fuchsia;
+	text-shadow: 2px 3px 4px fuchsia;
+	font-style: italic;
+	font-size: 50px;
+
+}
+
+.foto{ 
+	margin-left: 90px;
+	float:top;
+	padding-bottom: 10px;
+	
+}
+h1 {
+	text-align: center;
+	background: #449D44;
+	border-radius: 10px;
+	letter-spacing: 10px;
+	padding: 10px;
+	border-left: 300px solid orange;
+	border-right: 300px solid white;
+	font-family:Comic Sans MS; 
+}
